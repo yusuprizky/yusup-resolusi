@@ -1,3 +1,4 @@
 Rencana Upgrade Laptop 
 - Upgrade RAM
+  * RAM 8gb
 - Tambah SSD
