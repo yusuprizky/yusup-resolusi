@@ -2,3 +2,4 @@ Rencana Upgrade Laptop
 - Upgrade RAM
   * RAM 8gb
 - Tambah SSD
+  * SSD sata 500gb
