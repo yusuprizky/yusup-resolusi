@@ -3,4 +3,4 @@ Rencana Upgrade Laptop
   * RAM 8gb
 - Tambah SSD
   * SSD sata 500gb
-- Servis speaker
+- Ganti monitor
